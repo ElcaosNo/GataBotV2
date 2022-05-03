@@ -29,8 +29,8 @@ let handler = async (m, { conn, text, participants }) => {
 }
 handler.help = ['verfantasmas']
 handler.tags = ['group']
-handler.command = /^(verfantasmas|fantasmas)$/i
-handler.owner = false
+manejador    _    comando    =    /^(verfantasmas|fantasmasfantas)$/ Inactivos
+manejador   _  propietario   =   falso
 handler.mods = false
 handler.premium = false
 handler.group = true
